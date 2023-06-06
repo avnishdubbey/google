@@ -1,0 +1,80 @@
+.left{
+    text-align: end;
+    margin-top: 10px;
+
+}
+
+img{
+    text-align: center;
+}
+
+.img1{
+    width: 20px;
+}
+
+.fs{
+    margin-top: 100px;
+    width: 288px;
+
+}
+
+.input-box { border-radius: 20px; }
+
+
+.hm{
+    margin-top: 20px;
+    
+}
+
+.bor-rds-50 { border-radius: 50%; }
+.links { text-decoration: none; color: black; }
+.links:hover { text-decoration: solid; color: black; }
+.ml10 { margin-left: 10px; }
+.mt200{ margin-top: 150px; }
+.mt20{
+    margin-top: 36px;
+    border-radius: 35px;
+}
+
+.w200 { width: 300px; }
+
+.img2{
+    
+    right: 556px;
+    position: absolute;
+    top: 342px;
+    width: 25px;
+}
+.img3{ width: 14px;
+    position: absolute;
+    top: 344px;
+    right: 591px;
+}
+.btn1{
+    border: none;
+    margin-top: 20px;
+    background-color:#F8F9FA
+}
+.mt{
+    font-size: small;
+    margin-top: 25px;
+    margin-left: 280px;
+}
+.india{
+    padding-bottom: 11px;
+    background-color: #F2F2F2;
+    padding-top: 18px;
+    border-bottom: 1px solid #e2dfdf;
+}
+.mt160{
+    margin-top: 200px;
+}
+.te{
+    text-align: end;
+    margin-right: 20px;
+}
+.me{
+    text-align: end;
+}
+
+.footer-links{ margin-right: 20px; }
